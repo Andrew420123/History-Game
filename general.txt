@@ -1,0 +1,7 @@
+GENERAL IDEA OF THE PROJECT:
+We will develop a game that evolves around history where we simulate the events of historical centuries like ancient Egypt and the American revolution.
+And the player will witness these events in our game as they will be playing as a citizen for instance or as a king after leveling up (will discuss levels with details later on).
+There will be also a leveling system which will be the motivation to play as by leveling up you can: experience more historical events , unlocking cosmetics to design your avatar or replaying some events but with different roles.
+We will also feature some quizzes and questions to test the player's knowledge which will be in the form of "side quests". There will be some boss fights to also fulfill the gaming side alongside the educational side.
+And finally, a multiplayer mode where players from varies parts of the world will put their historical knowledge and gaming skill to the ultimate test.
+
