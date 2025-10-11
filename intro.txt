@@ -1,10 +1,10 @@
 Project: An educational game about history
 
 Members: Andrew Ayman
-	Abanoub Ayman
-	Abanoub Mokhles
-	Abanoub Tharwat
-	Antonio 
+	     Abanoub Ayman
+	     Abanoub Mokhles
+	     Abanoub Tharwat
+	     Antonio Nasr 
 
 Manager: Andrew Ayman
 Sponsored by: University of computers and information
