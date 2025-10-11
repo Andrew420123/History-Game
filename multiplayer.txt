@@ -1,0 +1,13 @@
+MULTIPLAYER:
+Multiplayer will serve two sides: Educational and Gaming sides
+
+Educational side:
+Will evolve on players competing against each other on who solves the questions or quizzes faster and most importantly correctly. 
+Playing their will reward the player with XP , cosmetics and weapons that can't be claimed by any means other than the mentioned method. 
+There where also a global leaderboard to add some spice to the competition. Playing this side will be unlimited (No energy needed to participate).
+
+GAMING side:
+Unlike the educational side , energy is required to participate in this side. 
+Here it will be a 1v1 duels featuring each two players' avatars as warriors and are using weapons claimed from leveling up.
+ The ONLY way to obtain energy to participate is only by testing your historical knowledge in the EDUCATIONAL side. 
+ There will also be a global leaderboard here too to add some heat. So basically it's just two noble warriors fighting till death claim ONE of their souls.
