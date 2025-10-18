@@ -1,9 +1,24 @@
 project: an educational game about history
 manager: 
-sponsored by: University of computers and information
-problem: A lot people hate history or don't even know about their civilization so we will develop an educational game about history so they can like history again 
-targeted people: Anyone who hates history or wishes to experience the life back in time
+sponsored by: University of computers and information.
+problem: A lot people hate history or don't even know about their civilization so we will develop an educational game about history so they can like history again. 
+targeted people: Anyone who hates history or wishes to experience the life back in time.
+Business case: Providing a fun , entertaining and educational way to help students love / study history by making an educational game.
+Budget: Budget estimated to be around 30000 L.E.
 
+Project resources:
+Staff: 2 game designers , 2 AI programmer , 3 engine programmer and 2 3D artists.
+Hardware: 7 laptops , 2 drawing tablets and 2 servers.
+Software: Software licences.
+
+Constrains:
+Project must be made within the budget range.
+Project must be ready within 3 years.
+Laptops and computers used must be hp or dell.
+
+Risks:
+Might recieve some negative reviews from elderly as games have bad influence on education.
+Selected technology might be poor for the customer.
 
 GENERAL IDEA OF THE PROJECT:  (Abanoub's Mokhles idea)
 We will develop a game that evolves around history where we simulate the events of historical centuries like ancient Egypt and the American revolution. 
